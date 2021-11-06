@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "56025858674",
+    "project_id": "wisho-e8cb8",
+    "storage_bucket": "wisho-e8cb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56025858674:android:3c80ee12bd855f294a38eb",
+        "android_client_info": {
+          "package_name": "com.project.wechou.wechou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56025858674-578vqn4pmb6994b1qcdpqbec3eht3716.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2DlwsUVX1oL98V2_H3Sl55KDwlonyvw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56025858674-578vqn4pmb6994b1qcdpqbec3eht3716.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
